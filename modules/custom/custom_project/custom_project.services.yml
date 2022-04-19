@@ -1,0 +1,4 @@
+services:
+  custom_project.custom_services:
+    class: Drupal\custom_project\CustomService
+    arguments: ['@config.factory']

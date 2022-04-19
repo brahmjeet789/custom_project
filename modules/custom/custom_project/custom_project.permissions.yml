@@ -1,0 +1,4 @@
+'administer custom':
+  'title': 'Admin Custom form'
+  'description': 'Form for time according to ur location'
+  restrict access: true

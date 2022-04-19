@@ -1,0 +1,6 @@
+custom_project.admin_settings_form:
+  title: 'Custom Menu'
+  description: 'Custom Configuration'
+  parent: system.admin_config
+  route_name: custom_project.admin_settings_form
+  weight: 200
